@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00b0ffbd-44b8-4b0f-b2ae-62d2d9db3173" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1fRhdEXXoWWcNDbMtkEhv2Rj4DC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\CodeFactory\CodeReview-12\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\CodeFactory\CodeReview-12" />
+      <recent name="C:\xampp\htdocs\CodeFactory\CodeReview-12\includes" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00b0ffbd-44b8-4b0f-b2ae-62d2d9db3173" name="Default Changelist" comment="" />
+      <created>1596186897516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596186897516</updated>
+      <workItem from="1596186898585" duration="21894000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="228" key="#PHP" timestamp="1596186915749">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="667" y="228" key="#PHP/1920.0.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1596186915749" />
+    <state x="629" y="363" key="EditFileWatcherDialog" timestamp="1596187050645">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="629" y="363" key="EditFileWatcherDialog/1920.0.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1596187050645" />
+    <state x="794" y="508" key="NewPhpFileDialog" timestamp="1596201377186">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="794" y="508" key="NewPhpFileDialog/1920.0.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1596201377186" />
+    <state x="461" y="230" key="SettingsEditor" timestamp="1596187052449">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="461" y="230" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1596187052449" />
+  </component>
+</project>
